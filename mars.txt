@@ -1,4 +1,4 @@
-changing it differently
+changing first line for merge conflict 
 The two moons may be a problem for wolfman.
 
 first git push attempt.
