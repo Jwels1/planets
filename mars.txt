@@ -1,4 +1,4 @@
-cold and dry but everything is my favorite color.
+editing first line
 The two moons may be a problem for wolfman.
 
-modifying the last line of mars.txt
+first git push attempt.
